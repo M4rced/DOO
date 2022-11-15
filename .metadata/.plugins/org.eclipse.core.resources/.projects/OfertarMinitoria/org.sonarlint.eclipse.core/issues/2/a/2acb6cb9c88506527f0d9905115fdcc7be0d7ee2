@@ -1,0 +1,14 @@
+
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(˜Üï‚HıRMINORZ
+CODE_SMELL
+o	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8…ÎÅºÇ0HÿRMINORZ
+CODE_SMELL
+Y
+java:S2333	"&"public" is redundant in this context.(ÂÇ¬Œ8…ÎÅºÇ0HRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ª´‚¢8²ãºÇ0HşRMAJORZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.H€RBLOCKERZ
+CODE_SMELL

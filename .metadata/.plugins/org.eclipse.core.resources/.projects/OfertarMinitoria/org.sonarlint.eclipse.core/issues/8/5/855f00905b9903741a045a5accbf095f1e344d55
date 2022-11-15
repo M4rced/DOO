@@ -1,0 +1,23 @@
+
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8Ûª’¼Ç0HöRINFOZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.HüRBLOCKERZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Îè™¬8Ûª’¼Ç0HúRMAJORZ
+CODE_SMELL
+p
+java:S4288"=Remove this annotation and use constructor injection instead.(êæÄÞ8Ûª’¼Ç0HõRMAJORZ
+CODE_SMELL
+o	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8Ûª’¼Ç0HùRMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ã£ßŽHøRMINORZ
+CODE_SMELL
+ú
+java:S4605"Ã'OfferServiceImplementation' is not reachable by @ComponentsScan or @SpringBootApplication. Either move it to a package configured in @ComponentsScan or update your @ComponentsScan configuration.(ã£ßŽ8Ûª’¼Ç0HûRCRITICALZ
+CODE_SMELL
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÍŸ¡óûÿÿÿÿ8Ûª’¼Ç0H÷RMINORZ
+CODE_SMELL

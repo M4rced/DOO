@@ -1,0 +1,28 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(š¤µ¶ıÿÿÿÿ8ëéœÅÇ0HÔRMAJORZ
+CODE_SMELL
+o	java:S105"EReplace all tab characters in this file by sequences of white-spaces.8ø”¼Ç0HîRMINORZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.HïRBLOCKERZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(†şØêÿÿÿÿÿHìRMINORZ
+CODE_SMELL
+h	java:S139"6Move this trailing comment on the previous empty line.(Ü ‘8ëéœÅÇ0HÓRMINORZ
+CODE_SMELL
+ô
+java:S4605"¸'OfferController' is not reachable by @ComponentsScan or @SpringBootApplication. Either move it to a package configured in @ComponentsScan or update your @ComponentsScan configuration.(†şØêÿÿÿÿÿ8ĞÑãÅÇ0HèRCRITICALZ
+CODE_SMELL
+t
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ö¯¾Ğ8ø”¼Ç0H«RMINORZ
+CODE_SMELL
+w
+java:S1120 "DMake this line start after 4 spaces to indent the code consistently.(½¼èÑ8–• ÇÇ0HRMINORZ
+CODE_SMELL
+~
+java:S1192"HDefine a constant instead of duplicating this literal "ofertas" 3 times.(Ü ‘8–• ÇÇ0HRCRITICALZ
+CODE_SMELL
+t
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ö¯¾Ğ8–• ÇÇ0H’RMINORZ
+CODE_SMELL

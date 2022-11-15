@@ -1,0 +1,27 @@
+package com.app.web.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import com.app.web.entity.Offer;
+
+@Service
+public class OfferServiceImplementation implements OfferService {
+	
+	@Autowired
+	private OfferRepository
+
+	@Override
+	public List<Offer> mostrarOfertas() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	//@Override
+	//public void createOffer() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

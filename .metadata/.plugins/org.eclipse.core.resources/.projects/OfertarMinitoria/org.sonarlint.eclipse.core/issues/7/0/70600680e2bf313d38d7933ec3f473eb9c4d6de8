@@ -1,0 +1,31 @@
+
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÜĞÉ¤ûÿÿÿÿHĞRMINORZ
+CODE_SMELL
+m
+java:S1128"5Remove this unused import 'com.app.web.entity.Offer'.( ¯ıÿÿÿÿ8ÌúÅÇ0HÜRMINORZ
+CODE_SMELL
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Í¤íŞıÿÿÿÿ8ĞéœÅÇ0HÌRMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘HÓRMINORZ
+CODE_SMELL
+k
+java:S1213"8Move this variable to comply with Java Code Conventions.(†ò×ò8ĞéœÅÇ0HËRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Ü§ü8ĞéœÅÇ0HÎRMAJORZ
+CODE_SMELL
+d
+java:S1135"2Complete the task associated to this TODO comment.(Ü§ü8Şú“½Ç0HÌRINFOZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.HÍRBLOCKERZ
+CODE_SMELL
+h	java:S105"EReplace all tab characters in this file by sequences of white-spaces.HÒRMINORZ
+CODE_SMELL
+r
+java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢FHÕRMAJORZ
+CODE_SMELL
+I	java:S923"Do not use varargs.(Í¤íŞıÿÿÿÿ8ĞéœÅÇ0HÍRINFOZ
+CODE_SMELL
