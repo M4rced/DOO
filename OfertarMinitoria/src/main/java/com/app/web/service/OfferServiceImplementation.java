@@ -19,9 +19,26 @@ public class OfferServiceImplementation implements OfferService {
 		return repository.findAll();
 	}
 
-	//@Override
-	//public void createOffer() {
-		// TODO Auto-generated method stub
+	@Override
+	public Offer guardarOferta(Offer oferta) {
+		return repository.save(oferta);
+	}
+
+	@Override
+	public Offer obtenerOfertaPorId(Long id) {
+		return repository.findById(id).get();
+	}
+
+	@Override
+	public Offer actaulizarOferta(Offer oferta) {
+		return repository.save(oferta);
+	}
+
+	@Override
+	public void eliminarOferta(Long id) {
+		repository.deleteById(id);
 		
+	}
+
 }
 

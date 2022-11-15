@@ -1,49 +1,49 @@
 
-n	java:S125"<This block of commented-out lines of code should be removed.(‰†ã»8ÎèÈÃÇ0HôRMAJORZ
+h	java:S105"EReplace all tab characters in this file by sequences of white-spaces.HÃRMINORZ
+CODE_SMELL
+m
+java:S11065"AMove this left curly brace to the beginning of next line of code.(ˆÃ»·HÄRMINORZ
 CODE_SMELL
 y
-java:S1106*"AMove this left curly brace to the beginning of next line of code.(¯ÓØºùÿÿÿÿ8¡’¥¼Ç0HâRMINORZ
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(¯ÓØºùÿÿÿÿ8¡’¥¼Ç0HÅRMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‡õ†ƒHÆRMINORZ
 CODE_SMELL
 r
-java:S11061"AMove this left curly brace to the beginning of next line of code.(§ß»éıÿÿÿÿHçRMINORZ
+java:S11061"AMove this left curly brace to the beginning of next line of code.(§ß»éıÿÿÿÿHÇRMINORZ
 CODE_SMELL
 m
-java:S11065"AMove this left curly brace to the beginning of next line of code.(ˆÃ»·HßRMINORZ
-CODE_SMELL
-n	java:S125+"<This block of commented-out lines of code should be removed.(‰†ã»8ã„ÄÇ0HˆRMAJORZ
+java:S1106""AMove this left curly brace to the beginning of next line of code.(§Ù¹‘HÈRMINORZ
 CODE_SMELL
 m
-java:S1106""AMove this left curly brace to the beginning of next line of code.(§Ù¹‘HáRMINORZ
-CODE_SMELL
-m
-java:S1106="AMove this left curly brace to the beginning of next line of code.(™ê´œHàRMINORZ
-CODE_SMELL
-m
-java:S1106"AMove this left curly brace to the beginning of next line of code.(ô†“àHŞRMINORZ
+java:S11069"AMove this left curly brace to the beginning of next line of code.(•ß½HÉRMINORZ
 CODE_SMELL
 r
-java:S1106I"AMove this left curly brace to the beginning of next line of code.(üú½×ÿÿÿÿÿHäRMINORZ
-CODE_SMELL
-m
-java:S11069"AMove this left curly brace to the beginning of next line of code.(•ß½HãRMINORZ
-CODE_SMELL
-h	java:S105"EReplace all tab characters in this file by sequences of white-spaces.HæRMINORZ
-CODE_SMELL
-m
-java:S1106A"AMove this left curly brace to the beginning of next line of code.(ñ·êÖHéRMINORZ
-CODE_SMELL
-l
-java:S1106E"AMove this left curly brace to the beginning of next line of code.(£ÓÓzHåRMINORZ
-CODE_SMELL
-m
-java:S1106"AMove this left curly brace to the beginning of next line of code.(‡õ†ƒHİRMINORZ
+java:S1106I"AMove this left curly brace to the beginning of next line of code.(üú½×ÿÿÿÿÿHÊRMINORZ
 CODE_SMELL
 L
-java:S1451"&Add or update the header of this file.HèRBLOCKERZ
+java:S1451"&Add or update the header of this file.HËRBLOCKERZ
+CODE_SMELL
+l
+java:S1106E"AMove this left curly brace to the beginning of next line of code.(£ÓÓzHÌRMINORZ
 CODE_SMELL
 m
-java:S1106M"AMove this left curly brace to the beginning of next line of code.(ÖÌÇìHêRMINORZ
+java:S1106M"AMove this left curly brace to the beginning of next line of code.(ÖÌÇìHÍRMINORZ
+CODE_SMELL
+n	java:S125+"<This block of commented-out lines of code should be removed.(‰†ã»8ã„ÄÇ0HÎRMAJORZ
+CODE_SMELL
+m
+java:S1106="AMove this left curly brace to the beginning of next line of code.(™ê´œHÏRMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ô†“àHĞRMINORZ
 CODE_SMELL
 t
-java:S1106R"AMove this left curly brace to the beginning of next line of code.(Á»›ê8ã„ÄÇ0H‡RMINORZ
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(Á»›ê8ã„ÄÇ0HÑRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(‰†ã»8ÎèÈÃÇ0HÒRMAJORZ
+CODE_SMELL
+m
+java:S1106A"AMove this left curly brace to the beginning of next line of code.(ñ·êÖHÓRMINORZ
 CODE_SMELL

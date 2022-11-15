@@ -1,31 +1,31 @@
 
 r
-java:S1106"AMove this left curly brace to the beginning of next line of code.(ÜĞÉ¤ûÿÿÿÿHĞRMINORZ
-CODE_SMELL
-m
-java:S1128"5Remove this unused import 'com.app.web.entity.Offer'.( ¯ıÿÿÿÿ8ÌúÅÇ0HÜRMINORZ
-CODE_SMELL
-y
-java:S1106"AMove this left curly brace to the beginning of next line of code.(Í¤íŞıÿÿÿÿ8ĞéœÅÇ0HÌRMINORZ
-CODE_SMELL
-m
-java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘HÓRMINORZ
+java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢FH¦RMAJORZ
 CODE_SMELL
 k
-java:S1213"8Move this variable to comply with Java Code Conventions.(†ò×ò8ĞéœÅÇ0HËRMINORZ
+java:S1213"8Move this variable to comply with Java Code Conventions.(†ò×ò8ĞéœÅÇ0H§RMINORZ
 CODE_SMELL
-n	java:S125"<This block of commented-out lines of code should be removed.(Ü§ü8ĞéœÅÇ0HÎRMAJORZ
+m
+java:S1128"5Remove this unused import 'com.app.web.entity.Offer'.( ¯ıÿÿÿÿ8ÌúÅÇ0H¨RMINORZ
+CODE_SMELL
+I	java:S923"Do not use varargs.(Í¤íŞıÿÿÿÿ8ĞéœÅÇ0HªRINFOZ
 CODE_SMELL
 d
-java:S1135"2Complete the task associated to this TODO comment.(Ü§ü8Şú“½Ç0HÌRINFOZ
+java:S1135"2Complete the task associated to this TODO comment.(Ü§ü8Şú“½Ç0H«RINFOZ
 CODE_SMELL
-L
-java:S1451"&Add or update the header of this file.HÍRBLOCKERZ
-CODE_SMELL
-h	java:S105"EReplace all tab characters in this file by sequences of white-spaces.HÒRMINORZ
+n	java:S125"<This block of commented-out lines of code should be removed.(Ü§ü8ĞéœÅÇ0H¬RMAJORZ
 CODE_SMELL
 r
-java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢FHÕRMAJORZ
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÜĞÉ¤ûÿÿÿÿH°RMINORZ
 CODE_SMELL
-I	java:S923"Do not use varargs.(Í¤íŞıÿÿÿÿ8ĞéœÅÇ0HÍRINFOZ
+L
+java:S1451"&Add or update the header of this file.H±RBLOCKERZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘H²RMINORZ
+CODE_SMELL
+y
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Í¤íŞıÿÿÿÿ8ĞéœÅÇ0H³RMINORZ
+CODE_SMELL
+h	java:S105"EReplace all tab characters in this file by sequences of white-spaces.H´RMINORZ
 CODE_SMELL

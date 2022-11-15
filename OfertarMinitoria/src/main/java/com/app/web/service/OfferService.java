@@ -8,6 +8,12 @@ public interface OfferService {
 	
 	public List<Offer> mostrarOfertas();
 	
-	//public void createOffer();
+	public Offer guardarOferta(Offer oferta);
+	
+	public Offer obtenerOfertaPorId(Long id);
+	
+	public Offer actaulizarOferta(Offer oferta);
+	
+	public void eliminarOferta(Long id);
 }
 
